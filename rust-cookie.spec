@@ -5,8 +5,8 @@
 %global crate cookie
 
 Name:           rust-%{crate}
-Version:        0.12.0
-Release:        2%{?dist}
+Version:        0.18.1
+Release:        1%{?dist}
 Summary:        Crate for parsing HTTP cookie headers and managing a cookie jar
 
 # Upstream license specification: MIT/Apache-2.0
